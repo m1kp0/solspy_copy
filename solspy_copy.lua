@@ -1,7 +1,7 @@
 -- https://github.com/stockingsloverr/roblox-scripts/blob/main/solspy 
 -- stockingsloverr the best
 
-print("\nloading solspy..\n"
+print("\nloading solspy..\n")
 local G2L = {};
 
 _G.Code = ""
