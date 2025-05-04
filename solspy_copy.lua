@@ -455,6 +455,6 @@ for _, folder in ipairs(folders) do
         end
     end)
 end
-
-return G2L["1"], require;
 print("\nsolspy loaded\n")
+return G2L["1"], require;
+
